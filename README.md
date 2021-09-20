@@ -27,5 +27,8 @@ Running the tests
 
     One can run the specs from the project's root directory with the command rspec
 
-    
+Time taken
+It took me 6 hours to complete this challenge. however, if I would be given more time I would consider adoption of design patterns like strategy pattern, I would write more robust tests to include test coverage using simplecov gem.
+I would refactor my codes to ensure they are much more clean and readable.
+   
 
